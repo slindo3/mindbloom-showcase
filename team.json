@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Serah Lindo",
+    "role": "Backend Developer",
+    "graduation": "December 2026",
+    "interests": "Backend engineering, API design and development, and cybersecurity.",
+    "linkedin": "https://www.linkedin.com/in/slnd1/",
+    "initials": "SL"
+  },
+  {
+    "name": "Drew Cook",
+    "role": "Full Stack Developer",
+    "graduation": "December 2026",
+    "interests": "Full-stack software development and data science.",
+    "linkedin": "https://www.linkedin.com/in/philip-drew-cook",
+    "initials": "DC"
+  },
+  {
+    "name": "Blayne Jarrett",
+    "role": "Frontend Developer",
+    "graduation": "Spring 2027",
+    "interests": "Frontend development, computer networking, and connected systems.",
+    "linkedin": "https://www.linkedin.com/in/elizabeth-jarrett-323a19238",
+    "initials": "BJ"
+  },
+  {
+    "name": "Leilah Garrett",
+    "role": "Frontend Developer",
+    "graduation": "December 2026",
+    "interests": "Frontend engineering, user interface design, and graphic design.",
+    "linkedin": "https://www.linkedin.com/in/leilah-garrett-182792263",
+    "initials": "LG"
+  },
+  {
+    "name": "Elena Valarino",
+    "role": "Full Stack Developer",
+    "graduation": "December 2026",
+    "interests": "Full-stack development, interactive media, and experience design.",
+    "linkedin": "https://www.linkedin.com/in/elena-valarino-167008219",
+    "initials": "EV"
+  }
+]
