@@ -9,11 +9,9 @@ Static HTML/CSS site published with GitHub Pages: https://slindo3.github.io/mind
 
 ## Status
 
-Done: real app screenshots, repo-verified copy, and headshots for Serah, Drew, Blayne, and Leilah.
+Done: real app screenshots, repo-verified copy, and headshots for all five team members.
 
-Still needed:
-1. Elena's headshot. Save it as `assets/photos/elena-valarino.webp` and replace her initials block in `index.html`.
-2. Sponsor sign-off on the mission wording.
+Still needed: sponsor sign-off on the mission wording.
 
 Extra screenshots not used yet: `admin-dashboard.webp`, `event-detail.webp`.
 
